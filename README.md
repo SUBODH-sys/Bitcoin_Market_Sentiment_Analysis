@@ -1,1 +1,1 @@
-# Bitcoin_Market_Sentiment_Analysis
+# Junior Data Scientist – Trader Behavior Insights
